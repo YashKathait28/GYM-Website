@@ -27,8 +27,6 @@ This project demonstrates best practices with reusable components and clean, per
 
 - ![React](https://skillicons.dev/icons?i=react)
 - ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-- ![React Icons](https://skillicons.dev/icons?i=reacticons)
-- ![React Scroll](https://skillicons.dev/icons?i=react)
 
 ---
 
